@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "恋は幻 for musician",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-21T10:19:31.928223Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋は幻",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_恋は幻_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋は幻",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/02_恋は幻_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋は幻",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_恋は幻_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋は幻 for musician",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_恋は幻_for_musician_東京事変.txt"
+    }
+  ]
+}

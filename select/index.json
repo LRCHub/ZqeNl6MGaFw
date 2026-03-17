@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "恋は幻 for musician",
-  "base_artist": "Tokyo Incidents",
-  "createdAt": "2025-12-21T10:19:31.928223Z",
+  "base_track": "恋は幻",
+  "base_artist": "東京事変",
+  "createdAt": "2026-03-17T11:56:16.679207Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -27,14 +27,6 @@
       "artist": "東京事変",
       "has_synced": false,
       "path": "select/pl_01_恋は幻_東京事変.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "恋は幻 for musician",
-      "artist": "東京事変",
-      "has_synced": false,
-      "path": "select/pl_02_恋は幻_for_musician_東京事変.txt"
     }
   ]
 }

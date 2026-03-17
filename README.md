@@ -1,53 +1,29 @@
-# Tokyo Incidents – 恋は幻 for musician
+# 東京事変 – 恋は幻
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
 ```
-響くサイレンの音
-夜が悪戯に深くなって
-君は目を逸らさない
-だから僕から目を逸らした
-他に好きな人がいるの
-「ごめんなさい」
-何度も重ねた唇が今
-確かにそう言った
-Suddenly
-一途に君の事だけ
-愛せていたか分からないけど
-抱き合うその度いつも
-あなた以外は愛せないと
-泣き出しそうに 僕のこの胸に
-顔をうずめていたのに 君は
-明日を夢見ながら
-今に溺れて流されてた
-迷い込んだ先に
-別れがあると気づきもせず
-信号が赤から青に
-変わったその瞬間に
-未来も全部置き去りにして
-君は歩き出した
-Suddenly
-せめても最後に僕を
-思い切り詰ってくれたらいいよ
-そしたら少しぐらいは
-君を憎んでしまえるのに
-まだ溢れてる この愛しさは
-何処へと捨てればいいの？
-Oh baby
-あんなに狂おしく僕を求めていた
-全ての時間を忘れされる訳もなく
-それなのに何故君は
-別の誰かを選んだのか教えてよ
-I'm all alone
-How am I supposed to forget you from now?
-涙一粒も零さないで
-振り向くことさえしない
-まるで知らない人のようだよ
-せめても最後に僕を
-思い切り詰ってくれたらいいよ
-そしたら少しぐらいは
-君を憎んでしまえるのに
-まだ溢れてる この愛しさは
-何処へと捨てればいいの？
-Tell me please
+It's a tricky situation
+Hard to say just what the outcome will be
+If you solve the riddle
+you can save your soul or
+Chase love's shadow till the rivers run cold
+Hey babe
+Get it up, get it up for love
+There's a longing in the people
+No one knows just when the heartache will cease
+You can flee in terror
+You can stay and fight
+You can stand in line and scream
+"it's just not right"
+But hey babe
+Get it up, get it up for love
+Sold for a smile
+Another fallen star shatters by the wayside
+Seldom do you find just what you had in mind
+It's a tricky situation
+Heaven knows just where the struggle must end
+If it takes forever
+I've got time to burn babe
+I won't desert you when the tables turn
 ```
